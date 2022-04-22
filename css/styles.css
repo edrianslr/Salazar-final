@@ -1,0 +1,123 @@
+#title{
+    background:  linear-gradient( #ff54a2,#ff575a);
+}
+
+}
+h1{
+  font-family: 'Lato', sans-serif;
+  line-height: 1;
+  font-size: 4rem;
+}
+h4{
+  color: white;
+  font-family: 'Roboto', sans-serif;
+}
+.body{
+  font-family: 'Roboto', sans-serif;
+
+}
+.container-fluid {
+  padding: 1% 10%;
+}
+.navbar-brand {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+.navbar {
+  padding-bottom: 5rem;
+}
+.nav-link {
+  font-size: 1.1rem;
+}
+.nav-item {
+  padding: 0 14px;
+}
+.download-button {
+  margin: 3% 3% 3% 0;
+
+}
+
+.heart-img {
+  width: 60%;
+}
+@media (max-width:1028px) {
+#title{
+  text-align: center;
+}
+.heart-img{
+  transform: rotate(10deg);
+}
+}
+/* features */
+.container-fluid2{
+padding: 5% 10%;
+}
+#features{
+  text-align: center;
+}
+/* icon */
+.fa-check-circle{
+  color: pink;
+}
+.fa-check-circle:hover{
+  color:  #dc3545;
+}
+.fa-heart{
+  color: pink;
+}
+.fa-heart:hover{
+  color: #dc3545;
+}
+.fa-heart{
+  color: pink;
+}
+.fa-heart:hover{
+  color: #dc3545;
+}
+
+
+#testimonials{
+  text-align: center;
+  background-color:  #ff575a;
+  color: white;
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+.testimonial-image{
+  width: 10%;
+  border-radius: 50%;
+  margin: 20px;
+}
+#press{
+  background-color: #ff575a;
+  text-align: center;
+  padding-bottom: 3%;
+}
+.press-logo{
+  width: 12%;
+  margin: 20px 20px 50px;
+}
+#pricing{
+  text-align: center;
+  padding: 100px;
+}
+.pricing-column{
+  padding: 3% 2%;
+}
+
+#cta{
+  text-align: center;
+    background-color: #ff575a;
+}
+
+.text{
+  font-family: 'Lato', sans-serif;
+  line-height: 1;
+  font-size: 3rem;
+  padding-top: 40px;
+}
+#footer{
+  text-align: center;
+    background-color: #ff575a;
+}
